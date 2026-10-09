@@ -1,0 +1,4 @@
+@baseUrl = http://localhost:8084
+GET {{baseUrl}}/airplaneType/findAll
+Accept: application/json
+Content-Type: application/json
